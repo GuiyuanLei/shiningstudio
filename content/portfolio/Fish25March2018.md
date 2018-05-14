@@ -3,7 +3,7 @@ date = "2018-03-25T19:41:01+05:30"
 title = "My Three Fish"
 draft = false
 image = "img/portfolio/Fish-Water-Colour.jpg"
-showonlyimage = false
+showonlyimage = true
 weight = 0
 +++
 
