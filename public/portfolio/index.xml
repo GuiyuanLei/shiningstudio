@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Shining Studio</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Shining Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Apr 2018 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Holiday Pictures (South France)</title>
+      <link>/portfolio/southfrance13april2018/</link>
+      <pubDate>Fri, 13 Apr 2018 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/southfrance13april2018/</guid>
+      <description>&lt;p&gt;I drew these when I was in Portiragnes Plage (France).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chinese Painting: Panda</title>
+      <link>/portfolio/panda13may2018/</link>
+      <pubDate>Sun, 13 May 2018 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/panda13may2018/</guid>
+      <description>&lt;p&gt;After the lesson of &amp;ldquo;Panda painting&amp;rdquo;, I have drawn more Pandas.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Three Fish</title>
+      <link>/portfolio/fish25march2018/</link>
+      <pubDate>Sun, 25 Mar 2018 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/fish25march2018/</guid>
+      <description>&lt;p&gt;Here are the three fish I painted. (Chinese painting, Watercolour and Acrylic in that order).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
