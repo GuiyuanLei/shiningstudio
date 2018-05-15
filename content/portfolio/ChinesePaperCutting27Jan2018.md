@@ -7,11 +7,9 @@ showonlyimage = true
 weight = 1
 +++
 
-
+I have done paper-cutting to celebrate Chinese New Year.
 
 <!--more-->
-
-I have done paper-cutting to celebrate Chinese New Year.
 
 
 ![](/img/portfolio/ChinesePaperCutting-SpringMoney.jpg)

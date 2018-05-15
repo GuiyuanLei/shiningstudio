@@ -7,7 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
-This is my artwork homework.
+This is my art homework.
 
 <!--more-->
 
