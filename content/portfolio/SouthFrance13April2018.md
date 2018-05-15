@@ -1,6 +1,6 @@
 +++
 date = "2018-04-13T19:41:01+05:30"
-title = "Holiday Pictures (South France)"
+title = "Holiday Pictures from South France (2018)"
 draft = false
 image = "img/portfolio/canal-du-midi.jpg"
 showonlyimage = true

@@ -1,6 +1,6 @@
 +++
 date = "2018-02-15T19:41:01+05:30"
-title = "Year of Dog"
+title = "Year of Dog (2018)"
 draft = false
 image = "img/portfolio/YearOfDog-2-15Feb2018.jpg"
 showonlyimage = true

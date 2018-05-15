@@ -1,6 +1,6 @@
 +++
 date = "2018-03-18T19:41:01+05:30"
-title = "Chinese Painting: Bamboo"
+title = "Chinese Painting: Bamboo (2018)"
 draft = false
 image = "img/portfolio/Bamboo-13March2018.jpg"
 showonlyimage = true
