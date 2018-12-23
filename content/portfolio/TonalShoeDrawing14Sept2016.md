@@ -1,15 +1,16 @@
 +++
 date = "2016-09-14T19:41:01+05:30"
-title = "Tonal Shoe (2016)"
+title = "Tonal Shoe (Sept 2016)"
 draft = false
 image = "img/portfolio/TonalShoe14Sept2016.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-This is my art homework.
+For my art homework, I had to draw a tonal shoe. My art teacher thought this was GCSE standard (I was in year 7 then) and gave me “Art Achievement Reward”.
 
 <!--more-->
 
+Art assessment from the art teachar: "Wow! Such an excellent standard of work! Excellent tones and very accurate! Continue to develop by adding more detail.""
 
-![](/img/portfolio/SuperShoeDesign14July2016.jpg)
+![](/img/portfolio/TonalShoe14Sept2016.jpg)

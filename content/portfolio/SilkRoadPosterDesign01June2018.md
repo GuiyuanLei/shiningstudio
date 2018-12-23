@@ -1,13 +1,13 @@
 +++
 date = "2018-06-01T19:41:01+05:30"
-title = "Poster Design: Silk Road (2018)"
+title = "Poster Design: Silk Road (June 2018)"
 draft = false
 image = "img/portfolio/SilkRoadPoster01June2018.png"
 showonlyimage = true
 weight = 1
 +++
 
-To enter a UK poster design competition "Echoes of the Silk Road", I tried several ideas.
+To enter a Chinese poster design UK competition "Echoes of the Silk Road", I tried several ideas. Finally I won a prize for this competition.
 
 <!--more-->
 
@@ -15,6 +15,8 @@ The following posters were four of my designs (from latest to oldest by date). I
 
 
 ![](/img/portfolio/SilkRoadPoster01June2018.png)
+
+![](/img/portfolio/Award-Chinese-Poster-Design-Competition-2018.jpg)
 
 ![](/img/portfolio/SilkRoadPoster31May2018.png)
 
