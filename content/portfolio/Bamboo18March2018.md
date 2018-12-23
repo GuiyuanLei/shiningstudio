@@ -7,11 +7,15 @@ showonlyimage = true
 weight = 1
 +++
 
-I have learned to paint bamboos since November 2017. I entered the first Chinese Painting Competition and have been awarded excellent 1st Prize.
+I have learned to paint bamboos since November 2017. I entered the first Chinese Painting Competition and have been awarded excellence 1st Prize.
 
 <!--more-->
 
 A Chinese teacher has taught us Chinese painting at WeChat. I have followed his lessons and drew many different bamboos (sometimes with chickens, birds and rock).
+
+To see all Chinese Paintings, you can visit my wordpress blog:
+
+[shiningstudio.wordpress.com](https://shiningstudio.wordpress.com/tag/chinese-painting/)
 
 
 ![](/img/portfolio/Bamboo-13March2018.jpg)

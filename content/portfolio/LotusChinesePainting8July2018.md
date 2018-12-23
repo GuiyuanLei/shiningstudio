@@ -13,6 +13,10 @@ I have learned to paint Lotus since July 2018.
 
 I followed videos from a Chinese Painting TV course. I like to paint birdy together with Lotus.
 
+To see all Chinese Paintings, you can visit my wordpress blog:
+
+[shiningstudio.wordpress.com](https://shiningstudio.wordpress.com/tag/chinese-painting/)
+
 
 ![](/img/portfolio/LotusChinesePainting-8July2018.jpg)
 ![](/img/portfolio/LotusChinesePainting-1July2018.jpg)

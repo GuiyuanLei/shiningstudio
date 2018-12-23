@@ -30,9 +30,9 @@ Here is the list of pokemons I have made:
 * Wigglytuff
 
 
-To see all of them, you can visit my wordpress blog:
+To see all pokemons, you can visit my wordpress blog:
 
-[Shining Studio on Wordpress](https://shiningstudio.wordpress.com/tag/pokemon/)
+[shiningstudio.wordpress.com](https://shiningstudio.wordpress.com/tag/pokemon/)
 
 
 ![](/img/portfolio/Marsdenmarch2017.jpg)

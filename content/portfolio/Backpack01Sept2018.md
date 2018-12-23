@@ -1,13 +1,13 @@
 +++
 date = "2018-09-01T21:41:01+05:30"
-title = "DIY Backpack (2018)"
+title = "DIY Backpack (August 2018)"
 draft = false
 image = "img/portfolio/BackpackWhite.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-I made my own backpacks before new term starts. 
+I made my own backpacks before Autumn term starts. 
 
 <!--more-->
 

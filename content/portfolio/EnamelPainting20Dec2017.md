@@ -1,6 +1,6 @@
 +++
 date = "2017-12-20T19:41:01+05:30"
-title = "Enamel painting (2017)"
+title = "Enamel painting (December 2017)"
 draft = false
 image = "img/portfolio/EnamelPainting20Dec2017.jpg"
 showonlyimage = true

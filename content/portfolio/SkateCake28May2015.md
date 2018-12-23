@@ -7,11 +7,11 @@ showonlyimage = true
 weight = 1
 +++
 
-For my ten-year-old birthday party, I decorated my own cake.
+For my ten-year-old birthday party, I decorated my own cake with fondant roller skates.
 
 <!--more-->
 
-It was a skate party and we had loads of fun racing each other around the rink. I gave 10 mini skates and 1 big one away by lottery and my friends loved them.
+It was a skate party and we had loads of fun racing each other around the rink. I gave 10 mini skates and 1 big one (made from fondant) away by lottery and my friends loved them.
 
 
 ![](/img/portfolio/Roller-skate-birthday-cake-28May2015.jpg)

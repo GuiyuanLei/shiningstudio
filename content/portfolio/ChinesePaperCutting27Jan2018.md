@@ -1,6 +1,6 @@
 +++
 date = "2018-01-27T19:41:01+05:30"
-title = "Chinese Paper-Cutting (2018)"
+title = "Chinese Paper-Cutting (January 2018)"
 draft = false
 image = "img/portfolio/ChinesePaperCutting-SpringMoney.jpg"
 showonlyimage = true
